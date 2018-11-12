@@ -1,2 +1,2 @@
 # helloworld_py
-A basic hello world program
+A basic hello world program in python
